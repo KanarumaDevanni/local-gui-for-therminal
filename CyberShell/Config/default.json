@@ -1,0 +1,14 @@
+{
+  "theme": "neon-pulse",
+  "style": "Powerline",
+  "showBannerOnStartup": true,
+  "showGit": true,
+  "showExecutionTime": true,
+  "executionTimeThresholdMs": 1000,
+  "notifyOnLongExecution": true,
+  "notifyThresholdSeconds": 5,
+  "showExitCode": true,
+  "pathStyle": "Short",
+  "showTimestamp": false,
+  "soundEffects": false
+}

@@ -1,0 +1,32 @@
+﻿{
+    "symbols":  {
+                    "timer":  "⏱",
+                    "gitAhead":  "↑",
+                    "error":  "✖",
+                    "success":  "✔",
+                    "gitBranch":  "",
+                    "separator":  " ",
+                    "gitClean":  "✓",
+                    "prompt":  "⚡",
+                    "gitBehind":  "↓",
+                    "gitDirty":  "*"
+                },
+    "name":  "neon-pulse",
+    "displayName":  "Neon Pulse",
+    "colors":  {
+                   "symbol":  "#FCEE09",
+                   "pathBg":  "#111116",
+                   "primary":  "#FCEE09",
+                   "error":  "#FF003C",
+                   "gitDirty":  "#FF003C",
+                   "success":  "#00FF66",
+                   "timer":  "#FCEE09",
+                   "git":  "#FCEE09",
+                   "secondary":  "#00F0FF",
+                   "accent":  "#FF003C",
+                   "path":  "#00F0FF",
+                   "gitClean":  "#00F0FF",
+                   "text":  "#E6E6E6",
+                   "muted":  "#555566"
+               }
+}

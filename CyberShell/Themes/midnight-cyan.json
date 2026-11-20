@@ -1,0 +1,32 @@
+﻿{
+    "symbols":  {
+                    "timer":  "⏱",
+                    "gitAhead":  "↑",
+                    "error":  "✖",
+                    "success":  "✔",
+                    "gitBranch":  "",
+                    "separator":  " ",
+                    "gitClean":  "✓",
+                    "prompt":  "❯",
+                    "gitBehind":  "↓",
+                    "gitDirty":  "*"
+                },
+    "name":  "midnight-cyan",
+    "displayName":  "Midnight Cyan",
+    "colors":  {
+                   "symbol":  "#7AA2F7",
+                   "pathBg":  "#16161E",
+                   "primary":  "#7AA2F7",
+                   "error":  "#F7768E",
+                   "gitDirty":  "#F7768E",
+                   "success":  "#9ECE6A",
+                   "timer":  "#E0AF68",
+                   "git":  "#BB9AF7",
+                   "secondary":  "#BB9AF7",
+                   "accent":  "#7DCFFF",
+                   "path":  "#7AA2F7",
+                   "gitClean":  "#9ECE6A",
+                   "text":  "#C0CAF5",
+                   "muted":  "#565F89"
+               }
+}

@@ -1,0 +1,32 @@
+﻿{
+    "symbols":  {
+                    "timer":  "⏱",
+                    "gitAhead":  "↑",
+                    "error":  "✖",
+                    "success":  "✔",
+                    "gitBranch":  "",
+                    "separator":  " ",
+                    "gitClean":  "✓",
+                    "prompt":  "λ",
+                    "gitBehind":  "↓",
+                    "gitDirty":  "!"
+                },
+    "name":  "digital-rain",
+    "displayName":  "Digital Rain",
+    "colors":  {
+                   "symbol":  "#00FF66",
+                   "pathBg":  "#051508",
+                   "primary":  "#00FF66",
+                   "error":  "#FF3333",
+                   "gitDirty":  "#FF3333",
+                   "success":  "#00FF66",
+                   "timer":  "#00AA44",
+                   "git":  "#66FF99",
+                   "secondary":  "#00AA44",
+                   "accent":  "#66FF99",
+                   "path":  "#00FF66",
+                   "gitClean":  "#00FF66",
+                   "text":  "#DDFFDD",
+                   "muted":  "#1E4724"
+               }
+}

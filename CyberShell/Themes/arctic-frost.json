@@ -1,0 +1,32 @@
+﻿{
+    "symbols":  {
+                    "timer":  "⏱",
+                    "gitAhead":  "↑",
+                    "error":  "✖",
+                    "success":  "✔",
+                    "gitBranch":  "",
+                    "separator":  " ",
+                    "gitClean":  "✓",
+                    "prompt":  "❯",
+                    "gitBehind":  "↓",
+                    "gitDirty":  "*"
+                },
+    "name":  "arctic-frost",
+    "displayName":  "Arctic Frost",
+    "colors":  {
+                   "symbol":  "#38BDF8",
+                   "pathBg":  "#0F172A",
+                   "primary":  "#E2E8F0",
+                   "error":  "#F43F5E",
+                   "gitDirty":  "#F43F5E",
+                   "success":  "#10B981",
+                   "timer":  "#F59E0B",
+                   "git":  "#818CF8",
+                   "secondary":  "#38BDF8",
+                   "accent":  "#818CF8",
+                   "path":  "#38BDF8",
+                   "gitClean":  "#10B981",
+                   "text":  "#F8FAFC",
+                   "muted":  "#475569"
+               }
+}

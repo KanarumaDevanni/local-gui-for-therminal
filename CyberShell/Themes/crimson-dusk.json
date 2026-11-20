@@ -1,0 +1,32 @@
+﻿{
+    "symbols":  {
+                    "timer":  "⏱",
+                    "gitAhead":  "↑",
+                    "error":  "✖",
+                    "success":  "✔",
+                    "gitBranch":  "",
+                    "separator":  " ",
+                    "gitClean":  "✓",
+                    "prompt":  "►",
+                    "gitBehind":  "↓",
+                    "gitDirty":  "!"
+                },
+    "name":  "crimson-dusk",
+    "displayName":  "Crimson Dusk",
+    "colors":  {
+                   "symbol":  "#FF3366",
+                   "pathBg":  "#210B10",
+                   "primary":  "#FF3366",
+                   "error":  "#FF0000",
+                   "gitDirty":  "#FF0000",
+                   "success":  "#50FA7B",
+                   "timer":  "#FF6B6B",
+                   "git":  "#FFA07A",
+                   "secondary":  "#FF6B6B",
+                   "accent":  "#FFA07A",
+                   "path":  "#FF3366",
+                   "gitClean":  "#FF8888",
+                   "text":  "#F8F8F2",
+                   "muted":  "#683B46"
+               }
+}

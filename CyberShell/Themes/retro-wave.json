@@ -1,0 +1,32 @@
+﻿{
+    "symbols":  {
+                    "timer":  "⏱",
+                    "gitAhead":  "↑",
+                    "error":  "✖",
+                    "success":  "✔",
+                    "gitBranch":  "",
+                    "separator":  " ",
+                    "gitClean":  "✓",
+                    "prompt":  "❯",
+                    "gitBehind":  "↓",
+                    "gitDirty":  "*"
+                },
+    "name":  "retro-wave",
+    "displayName":  "Retro Wave",
+    "colors":  {
+                   "symbol":  "#FF7EDB",
+                   "pathBg":  "#1A102F",
+                   "primary":  "#FF7EDB",
+                   "error":  "#FE4450",
+                   "gitDirty":  "#FE4450",
+                   "success":  "#72F1B8",
+                   "timer":  "#F97E72",
+                   "git":  "#FF7EDB",
+                   "secondary":  "#2DE2E6",
+                   "accent":  "#FE4450",
+                   "path":  "#2DE2E6",
+                   "gitClean":  "#2DE2E6",
+                   "text":  "#FFFFFF",
+                   "muted":  "#614D80"
+               }
+}
